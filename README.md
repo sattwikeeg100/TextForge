@@ -2,6 +2,9 @@
 
 TextForge is a versatile text utility website built using the ReactJS framework. It offers a range of convenient text operations, empowering users to manipulate text effortlessly. Whether you need to convert text to uppercase, lowercase, remove extra spaces, copy text, or clear text, TextForge has you covered.
 
+Visit [TextForge](https://textforge-easyformatter.netlify.app/) to access the website.
+
+
 ## Features
 
 - **Convert to Uppercase/Lowercase:** Quickly transform text to either uppercase or lowercase according to your preference.
