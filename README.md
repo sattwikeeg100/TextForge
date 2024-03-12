@@ -60,7 +60,7 @@ Contributions are welcome! If you have any ideas for new features, enhancements,
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/sattwikeeg100/TextForge/tree/main)) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sattwikeeg100/TextForge/tree/main) file for details.
 
 ## Acknowledgments
 
